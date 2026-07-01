@@ -1,6 +1,6 @@
 # Data-Quality-App
 
-# Jumpstart Data Quality
+# Jumpstart Data Quality App
 
 ## ROLE & MISSION
 
